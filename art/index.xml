@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts on My Blog</title>
+    <link>https://Evija9.github.io./art/</link>
+    <description>Recent content in Arts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 21:28:13 +0300</lastBuildDate>
+    <atom:link href="https://Evija9.github.io./art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujausias įrašas</title>
+      <link>https://Evija9.github.io./art/new-art-item/</link>
+      <pubDate>Mon, 08 Apr 2024 21:28:13 +0300</pubDate>
+      <guid>https://Evija9.github.io./art/new-art-item/</guid>
+      <description>Savarankiška užduotis</description>
+    </item>
+  </channel>
+</rss>
