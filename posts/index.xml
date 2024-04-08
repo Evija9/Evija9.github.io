@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 19:53:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 20:50:36 +0300</lastBuildDate>
     <atom:link href="https://Evija9.github.io./posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kodo Citata</title>
+      <link>https://Evija9.github.io./posts/kodocitata/</link>
+      <pubDate>Mon, 08 Apr 2024 20:50:36 +0300</pubDate>
+      <guid>https://Evija9.github.io./posts/kodocitata/</guid>
+      <description>&#xA;print(&amp;#34;Hello, world!&amp;#34;) </description>
+    </item>
     <item>
       <title>Welcome to Blog!</title>
       <link>https://Evija9.github.io./posts/firstpost/</link>
