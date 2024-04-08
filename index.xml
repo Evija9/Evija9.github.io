@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://Evija9.github.io./</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 19:53:30 +0300</lastBuildDate>
+    <atom:link href="https://Evija9.github.io./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Blog!</title>
+      <link>https://Evija9.github.io./posts/firstpost/</link>
+      <pubDate>Mon, 08 Apr 2024 19:53:30 +0300</pubDate>
+      <guid>https://Evija9.github.io./posts/firstpost/</guid>
+      <description>This is my first page using Hugo!</description>
+    </item>
+  </channel>
+</rss>
